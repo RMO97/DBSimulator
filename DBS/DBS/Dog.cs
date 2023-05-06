@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace DBS
 {
-    internal class Dog
+    public class Dog
     {
-        private String name { get; set; }
-        private String race { get; set; }
-        private int id { get; set; }
+        public String name  { get; set; }
+        public String race { get; set; }
+        public int id { get; set; }
 
         public Dog(string name, string race, int id)
         {
@@ -18,7 +18,5 @@ namespace DBS
             this.race = race;
             this.id = id;
         }
-
-
     }
 }

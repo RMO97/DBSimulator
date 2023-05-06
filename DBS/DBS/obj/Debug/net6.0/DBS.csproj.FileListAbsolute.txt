@@ -1,0 +1,15 @@
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\bin\Debug\net6.0\DBS.exe
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\bin\Debug\net6.0\DBS.deps.json
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\bin\Debug\net6.0\DBS.runtimeconfig.json
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\bin\Debug\net6.0\DBS.dll
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\bin\Debug\net6.0\DBS.pdb
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\DBS.csproj.AssemblyReference.cache
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\DBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\DBS.AssemblyInfoInputs.cache
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\DBS.AssemblyInfo.cs
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\DBS.csproj.CoreCompileInputs.cache
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\DBS.dll
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\refint\DBS.dll
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\DBS.pdb
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\DBS.genruntimeconfig.cache
+C:\Users\Belmo\Desktop\Things 4 Job\DBSimulator\DBS\DBS\obj\Debug\net6.0\ref\DBS.dll

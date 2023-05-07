@@ -10,13 +10,13 @@ namespace DBS
     {
         public String name  { get; set; }
         public String race { get; set; }
-        public int id { get; set; }
+       
 
-        public Dog(string name, string race, int id)
+        public Dog(string name, string race)
         {
             this.name = name;
             this.race = race;
-            this.id = id;
+            
         }
     }
 }

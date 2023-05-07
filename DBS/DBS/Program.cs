@@ -20,6 +20,7 @@ namespace DBS
             String name;
             String race;
             int id;
+            int opOption;
             do
             {
                 Console.WriteLine("-------------------------------------------------------");
@@ -35,24 +36,29 @@ namespace DBS
                         name = Console.ReadLine();
                         Console.WriteLine("Please enter the race of the new dog");
                         race = Console.ReadLine();
-                        Console.WriteLine("Please enter the id of the new dog");
-                        id = Convert.ToInt32(Console.ReadLine());
-                        Dog dog = new Dog(name, race, id);
+                        Dog dog = new Dog(name, race);
                         dogs.Add(dog);
                         break;
                     case 2:
+                        int i = 0;
                         foreach (Dog dogo in dogs)
                         {
+                            
                             Console.WriteLine("-----------------------");
-                            Console.WriteLine($"ID: {dogo.id} ");
+                            Console.WriteLine($"ID: {i.ToString()} ");
                             Console.WriteLine($"Name: {dogo.name}");
                             Console.WriteLine($"Race: {dogo.race}");
                             Console.WriteLine("-----------------------");
+                            i++;
                         }
                         break;
                     case 3:
+                        Console.WriteLine("Please enter the id of the dog you wish to delete");
+                        opOption = Convert.ToInt32(Console.ReadLine());
+                        dogs.RemoveAt(opOption);
                         break;
                     case 4:
+
                         break;
                     case 5:
                         Console.WriteLine("See you!");

@@ -56,9 +56,19 @@ namespace DBS
                         Console.WriteLine("Please enter the id of the dog you wish to delete");
                         opOption = Convert.ToInt32(Console.ReadLine());
                         dogs.RemoveAt(opOption);
+                        Console.WriteLine("Succesful removal");
                         break;
                     case 4:
-
+                        Console.WriteLine("Please enter the id of the dog you wish to update");
+                        opOption = Convert.ToInt32(Console.ReadLine());
+                        Dog dogEdit = dogs[opOption];
+                        Console.WriteLine("Please enter the new name of the dog");
+                        name = Console.ReadLine();
+                        Console.WriteLine("Please enter the new race of the dog");
+                        race = Console.ReadLine();
+                        dogEdit.name = name;
+                        dogEdit.race = race;
+                        Console.WriteLine("Succesful edition");
                         break;
                     case 5:
                         Console.WriteLine("See you!");
